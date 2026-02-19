@@ -1,0 +1,12 @@
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Docker (Optional, kalau ada file log)
+*.log
